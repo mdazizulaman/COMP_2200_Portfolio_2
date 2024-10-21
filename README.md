@@ -1,7 +1,5 @@
 # portfolio-part-2-mdazizulaman
 portfolio-part-2-mdazizulaman created by GitHub Classroom
-# portfolio-part-2-mdazizulaman
-portfolio-part-2-mdazizulaman created by GitHub Classroom
 ## Introduction
 
 In this Portfolio, we explore the task of predicting user ratings for e-commerce products using a linear regression model. We conduct a comprehensive analysis to understand the impact of feature selection and different sizes of training and testing data on the model's performance. The analysis is based on a cleaned e-commerce dataset, focusing on the correlations between various features and the target variable, 'rating.'
